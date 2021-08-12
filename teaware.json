@@ -1,0 +1,47 @@
+[
+    {  
+        "id": "tt1",
+        "nombre": "TETERA CRISA",
+        "categoria": "Tetera",
+        "Material": "Vidrio",
+        "Descripcion": "Tetera de vidrio para hebras, con tapa de acero e infusor metálico removible.",
+        "Presentacion": "600ml",
+        "Precio": "$790.00",
+        "Stock": "500"
+    }
+
+    {  
+        "id": "tt2",
+        "nombre": "TETERA FIINO",
+        "categoria": "Tetera",
+        "Material": "Vidrio",
+        "Descripcion": "Tetera de vidrio para hebras, con tapa de acero e infusor metálico removible.",
+        "Presentacion": "900ml",
+        "Precio": "$1900.00",
+        "Stock": "450"
+    }
+
+    {  
+        "id": "inf1",
+        "nombre": "INFUSOR FOSKA",
+        "categoria": "Infusor",
+        "Material": "Metal",
+        "Descripcion": "Infusor de metal con forma de tetera",
+        "Presentacion": "5.5x5.5x2.5cm",
+        "Precio": "$260.00",
+        "Stock": "1200"
+    }
+
+    {  
+        "id": "inf2",
+        "imagen": "img/",
+        "nombre": "INFUSOR LUV",
+        "categoria": "Infusor",
+        "Material": "Metal",
+        "Descripcion": "Infusor de metal con forma de corazón, apertura por deslizamiento frontal tipo cajón mediante presión del extremo del agarre.",
+        "Presentacion": "17x4.2x2.2cm",
+        "Precio": "$370.00",
+        "Stock": "1000"
+    }
+
+]

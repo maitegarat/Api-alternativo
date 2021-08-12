@@ -1,0 +1,51 @@
+[
+    {  
+        "id": "te1",
+        "nombre": "OOLONG LUZ DE LUNA",
+        "categoria": "Frutal, Blando",
+        "Ingredientes": "Té Oolong, Flores de naranja",
+        "Descripcion": "Blend frutal de Té Oolong y flores de naranja",
+        "Presentacion": "Caja de 50 g.",
+        "Precio": "$400.00",
+        "Origen": "--",
+        "Stock": "1200"
+    }
+
+    {  
+        "id": "te2",
+        "nombre": "MATCHA TENCHA BIO",
+        "categoria": "Intenso",
+        "Ingredientes": "Té verde",
+        "Descripcion": "Té verde molido fino utilizado en la ceremonia del té japonesa. Su aroma tiene un tenor herbal dulce y su color es verde intenso de gran cuerpo. Es un poderoso antioxidante.",
+        "Presentacion": "Caja de 30 g.",
+        "Precio": "$640.00",
+        "Origen": "Japón",
+        "Stock": "720"
+    }
+
+    {  
+        "id": "te3",
+        "nombre": "DARJEELING",
+        "categoria": "Floral, Blando",
+        "Ingredientes": "Té Negro",
+        "Descripcion": "Té negro aromático, pleno en boca",
+        "Presentacion": "Caja de 50 g.",
+        "Precio": "$430.00",
+        "Origen": "India",
+        "Stock": "570"
+    }
+
+    {  
+        "id": "te4",
+        "imagen": "img/",
+        "nombre": "PAWPAW",
+        "categoria": "Floral, Blando",
+        "Ingredientes": "Arándano, Frutilla, Girasol, Malva, Mango, Melón, Papaya",
+        "Descripcion": "Trozos de frutilla, trozos de melón, pétalos de girasol, flores de malva, trozos de arándano, extracto natural de papaya y mango.",
+        "Presentacion": "Caja de 50 g.",
+        "Precio": "$380.00",
+        "Origen": "--",
+        "Stock": "1450"
+    }
+
+]
