@@ -9,7 +9,7 @@
         "Precio": "$400.00",
         "Origen": "--",
         "Stock": "1200"
-    }
+    },
 
     {  
         "id": "te2",
@@ -21,7 +21,7 @@
         "Precio": "$640.00",
         "Origen": "Japón",
         "Stock": "720"
-    }
+    },
 
     {  
         "id": "te3",
@@ -33,7 +33,7 @@
         "Precio": "$430.00",
         "Origen": "India",
         "Stock": "570"
-    }
+    },
 
     {  
         "id": "te4",
