@@ -8,7 +8,7 @@
         "Presentacion": "Caja de 50 g.",
         "Precio": "$400.00",
         "Origen": "--",
-        "Stock": "1200"
+        "Stock": 1200
     },
 
     {  
@@ -20,7 +20,7 @@
         "Presentacion": "Caja de 30 g.",
         "Precio": "$640.00",
         "Origen": "Japón",
-        "Stock": "720"
+        "Stock": 720
     },
 
     {  
@@ -32,7 +32,7 @@
         "Presentacion": "Caja de 50 g.",
         "Precio": "$430.00",
         "Origen": "India",
-        "Stock": "570"
+        "Stock": 570
     },
 
     {  
@@ -45,7 +45,7 @@
         "Presentacion": "Caja de 50 g.",
         "Precio": "$380.00",
         "Origen": "--",
-        "Stock": "1450"
+        "Stock": 1450
     }
 
 ]
